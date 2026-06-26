@@ -4,8 +4,7 @@ A production-ready 3-tier e-commerce web application built with React, Go (Fiber
 
 
 
-[<img src="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=1280" width="100%" />](https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=1600)
-
+https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600
 
 
 
