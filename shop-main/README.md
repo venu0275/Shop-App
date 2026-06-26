@@ -4,14 +4,10 @@ A production-ready 3-tier e-commerce web application built with React, Go (Fiber
 
 
 
-<img width="1280" height="720" alt="Shopverse project - Thumbnail" src="https://github.com/user-attachments/assets/fd0a3efe-aeb3-48dc-8912-714517580010" />
+<img src="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=1280" width="100%" />
 
 
-## YouTube Video Link:
 
-```
-https://youtu.be/XQrJrf6pUvk?si=XGsLPOm6YC1AEJFk
-```
 
 ## Architecture:
 
