@@ -4,7 +4,7 @@ A production-ready 3-tier e-commerce web application built with React, Go (Fiber
 
 
 
-https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600
+<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="300">
 
 
 
